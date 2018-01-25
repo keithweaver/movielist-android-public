@@ -1,0 +1,11 @@
+{
+  "AppNotifications": [
+    {
+      "title": "Example title",
+      "subMessage": "Demo of the second line goes here",
+      "drawable": "@drawable/settings_one",
+      "image": "https://test.com/test.jpg",
+      "timestamp": "2018-01-21 23:23:12"
+    }
+  ]
+}
