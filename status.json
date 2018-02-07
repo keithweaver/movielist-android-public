@@ -1,4 +1,14 @@
 {
   "live": true,
-  "reasonForNotBeingLive": "" 
+  "reasonForNotBeingLive": "",
+  "currentVersion": "1.0.0",
+  "testedDevices": [
+    {
+      "model": "Nexus 5X",
+      "androidVersion": "8.1.0",
+      "appVersions": [
+        "1.0.0"
+      ]
+    }
+  ]
 }
