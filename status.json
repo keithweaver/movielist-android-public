@@ -1,6 +1,24 @@
 {
   "live": true,
-  "reasonForNotBeingLive": "",
+  "reasonForNotBeingLive": {
+    "en": "",
+    "de": "",
+    "zh": "",
+    "cs": "",
+    "nl": "",
+    "fr": "",
+    "de": "",
+    "it": "",
+    "ja": "",
+    "ko": "",
+    "pl": "",
+    "ru": "",
+    "es": "",
+    "ar": "",
+    "bg": "",
+    "ca": "",
+    "hi": ""
+  },
   "currentVersion": "1.0.0",
   "testedDevices": [
     {
