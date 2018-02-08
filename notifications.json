@@ -6,6 +6,13 @@
       "drawable": "@drawable/settings_one",
       "image": "https://test.com/test.jpg",
       "timestamp": "2018-01-21 23:23:12"
+    },
+    {
+      "title": "Example title",
+      "subMessage": "Demo of the second line goes here",
+      "drawable": "",
+      "image": "",
+      "timestamp": "2018-02-08 10:38:12"
     }
   ]
 }
